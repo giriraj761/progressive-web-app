@@ -1,6 +1,6 @@
 # PWA_project_2022
 
-I have worked on service worker and fetch api in this project. I also have used lighthouse. It was all done under the mentorship of Mr. Ankur Agrawal. I acknowledge his contribution to our project.
+I have worked on service worker and fetch api in this project. I also have used lighthouse.
 You will get to know about following:
 a. Progressive web applications and Service Worker
 b. Fetch API
